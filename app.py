@@ -16,7 +16,7 @@ if upload is not None and inp_img == True:
     st.image(upload)
 elif upload is not None and out_img == True:
     num_apples, result = detect_count_apples(upload)
-    if num_apples > 1:
+    if num_apples >= 1:
         st.subheader(f"The total number of detected apples are {num_apples}!")
         st.image(image=result)
     else:
