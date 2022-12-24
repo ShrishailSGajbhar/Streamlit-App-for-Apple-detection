@@ -15,11 +15,9 @@ Please find the demo video for the application [here](https://www.youtube.com/wa
 * Install the required packages
 * Run the code by executing the following command at terminal
   
-  ```bash
-
+```bash
 streamlit run app.py
-
-  ```
+```
 
 ## Results
 
