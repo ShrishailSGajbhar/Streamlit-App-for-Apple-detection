@@ -19,7 +19,7 @@ Please find the demo video for the application [here](https://www.youtube.com/wa
 
 streamlit run app.py
 
-  ```bash
+  ```
 
 ## Results
 
