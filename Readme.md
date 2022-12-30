@@ -18,6 +18,11 @@ Install `pipreqs` package for getting the `requirements.txt` automatically. Run 
 streamlit run app.py
 ```
 
+# Deployed App link
+If you are interested in testing the app online, check the following link:
+```
+https://shrishailsgajbhar-streamlit-app-for-apple-detection-app-yfpd22.streamlit.app/
+```
 ## Results
 
 ### Input image
