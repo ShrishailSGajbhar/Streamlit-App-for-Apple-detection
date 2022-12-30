@@ -6,6 +6,7 @@ st.write("By: Shrishail Gajbhar, PhD")
 # add_bg_from_local('pic2.png')
 upload = st.file_uploader("Upload image", type=['png', 'jpg'])
 
+# create two buttons on the same line
 c1, c2 = st.columns(2)
 
 inp_img = c1.button("View input image")

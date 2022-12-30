@@ -6,8 +6,7 @@ Please find the demo video for the application [here](https://www.youtube.com/wa
 
 ## Requirements
 
-* streamlit
-* opencv-python
+Install `pipreqs` package for getting the `requirements.txt` automatically. Run `pipreqs .` in root path to generate the file.
 
 ## How to run
 
